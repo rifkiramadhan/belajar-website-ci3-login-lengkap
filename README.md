@@ -26,6 +26,6 @@
 - Bootstrap V4
   - getbootstrap.com
 - SBAdmin
-  - startbootstrap.com/themes/sb-admin-2
+  - startbootstrap.com/theme/sb-admin-2
 - Font Awesome
   - fontawesome.com

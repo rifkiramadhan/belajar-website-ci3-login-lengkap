@@ -1,0 +1,5 @@
+---- Keterangan Latihan 1 ----
+
+1. Install Extensions
+   - Auto Rename Tag
+   - PHP Intelephense
